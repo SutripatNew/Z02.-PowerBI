@@ -11,9 +11,10 @@
 <div style="margin-left:1em">
 
 1. **Remove Rows** > **Remove top Rows**    <br>
-<img src="picture/ETL/image.png" width="500"> <br>
-2. **Number of rows** > 1 แถว > **OK**      <br>
-<img src="picture/ETL/image-1.png" width="500">
+    <img src="picture/ETL/image.png" width="500"> <br>
+
+2. **Number of rows** > 1 แถว > **OK** <br>
+    <img src="picture/ETL/image-1.png" width="500">
 
 </div>
 </details>
@@ -27,14 +28,14 @@
 <div style="margin-left:1em">
 
 1. เลือกแถว
-2. แท็บ Home > **Use First Row as Headers**  <br>
-<img src="picture/ETL/image-2.png" width="500">
+2. แท็บ Home > **Use First Row as Headers** <br>
+    <img src="picture/ETL/image-2.png" width="500">
 
 </div>
 </details>
 
 
-<details>
+<details open>
 <summary> 2.2 เพิ่มคอลัมน์ (add field) </summary>
 <div style="margin-left:1em">
 
@@ -45,7 +46,7 @@
 1. แท็บ **Add Column** > **Custom Column**
 2. ตั้งชื่อ **field New column name** > **Custom column formula** <br>
 ในที่นี้ จะเพิ่มคอลัมน์ชื่อ “ประเภท” ⇒ ข้อมูลคือ “ข้าว” <br>
-<img src="picture/ETL/image-3.png" width="400">
+    <img src="picture/ETL/image-3.png" width="400">
 
 </div>
 </details>
@@ -139,7 +140,7 @@
 
 - จะสร้างสตริงตำแหน่ง 0 ถึงตำแหน่ง 4 เป็นคอลัมน์แรก คือ Year.1 แล้วสตริงที่เหลือจะเป็นคอลัมน์ที่สองคือ Year.2  
 ผลลัพธ์ <br>
-<img src="picture/ETL/image-15.png" width="400">
+    <img src="picture/ETL/image-15.png" width="400">
 </div>
 </details>
 
@@ -153,7 +154,7 @@
 
 - ในทำนองเดียวกัน หากต้องการแบ่งข้อมูลออกเป็นหลายคอลัมน์ ให้ใช้ , คั่น > 0, 6, 14 (หมายถึง 0-6, 7-14, 15 เป็นต้นไป)  
 ผลลัพธ์ <br>
-<img src="picture/ETL/image-17.png" width="400">
+    <img src="picture/ETL/image-17.png" width="400">
 </div>
 </details>
 
@@ -209,8 +210,8 @@ append queries as New คือการสร้าง ตารางใหม
 <div style="margin-left:1em">
 
 1. ไปที่แท็บ **Home > Merge Queries** <br>
-<img src="picture/ETL/image-22.png" width="400"> <br>
-<img src="picture/ETL/image-23.png" width="400">
+    <img src="picture/ETL/image-22.png" width="400"> <br>
+    <img src="picture/ETL/image-23.png" width="400">
 </div>
 </details>
 
