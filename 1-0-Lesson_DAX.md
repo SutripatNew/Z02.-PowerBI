@@ -1,7 +1,6 @@
 <img src="picture\images-0.png" alt="alt text" width="100">
 
 <br>
-<br>
 
 # 📍 DAX
 
@@ -43,7 +42,6 @@ Tourist_AmtX = SUMX('นักท่องเที่ยวต่างชา�
 </details>
 
 <br>
-<br>
 
 # Min/Max formular
 
@@ -82,7 +80,6 @@ Tourist_MAX = MAX('นักท่องเที่ยวต่างชาต�
 </div>
 </details>
 
-<br>
 <br>
 
 # CAL / FILTER
@@ -211,7 +208,6 @@ CALCULATE(
 </div>
 </details>
 
-<br>
 <br>
 
 # Logic

@@ -1,7 +1,6 @@
 <img src="picture\images-0.png" alt="alt text" width="100">
 
 <br>
-<br>
 
 
 # วิธีการใช้ Parameter [Transform]
