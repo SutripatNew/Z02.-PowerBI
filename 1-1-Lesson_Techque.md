@@ -12,8 +12,11 @@
 <div style="margin-left:1em">
 
 `= Sql.Databases("10.1.1.124")`
-<img src="picture\Techque\image-18.png" width="500">   
+
+<img src="picture\Techque\image-18.png" width="500">  
+
 `= TNTL_PUR_DEV{[Schema="dbo",Item="VW_FACT_MS_FORM"]}[Data]`
+
 <img src="picture\Techque\image-19.png" width="500"> 
 </div>
 </details>
@@ -25,9 +28,11 @@
 <img src="picture\Techque\image-20.png" width="300">   
 
 `= Sql.Database("10.1.1.124", "" &DB& "")` **<< Database ลบ s**
+
 <img src="picture\Techque\image-21.png" width="500"> 
 
 `= Source{[Schema="dbo",Item="VW_FACT_MS_FORM"]}[Data] **<< Source**
+
 <img src="picture\Techque\image-22.png" width="500">
 </div>
 </details>
