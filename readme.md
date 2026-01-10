@@ -12,9 +12,11 @@
 python/  
 ├─ 📃 1-0-Lesson_DAX.md
 ├─ 📃 1-1-Lesson_Techque.md 
+├─ 📃 1-2-Lesson_ETL.md 
 │
 ├─ 📂 Picture/ 
 │  └─ 📂 DAX/
+│  └─ 📂 ETL/
 │  └─ 📂 Techque/
 │
 └─ README.md
@@ -24,5 +26,6 @@ python/
 
 ## 📍 Highlight
 - [Lesson_DAX](1-0-Lesson_DAX.md) 📅 **Last updated:** 2026-01-09
-- [Lesson_Techque](1-1-Lesson_Techque.md) 📅 **Last updated:** 2026-01-09
+- [Lesson_Techque](1-1-Lesson_Techque.md) 📅 **Last updated:** 2026-01-10
+- [Lesson_ETL](1-2-Lesson_ETL.md) 📅 **Last updated:** 2026-01-10
 

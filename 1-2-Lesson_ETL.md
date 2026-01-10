@@ -35,7 +35,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary> 2.2 เพิ่มคอลัมน์ (add field) </summary>
 <div style="margin-left:1em">
 
